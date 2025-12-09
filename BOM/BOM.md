@@ -2,7 +2,7 @@
 ## 2 25kg/cm digital serovs
 ## 1 15kg/cm digital servos
 ## 3 MG996R analog servos 
-### Power Supply
+# Power Supply
 ## 300W buck converter step down
 ## 24v 5A AC to DC converter
 
