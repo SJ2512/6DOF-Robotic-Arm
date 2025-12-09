@@ -1,4 +1,4 @@
-### Servo Moors
+# Servo Motors
 ## 2 25kg/cm digital serovs
 ## 1 15kg/cm digital servos
 ## 3 MG996R analog servos 
@@ -8,7 +8,7 @@
 
 ## PCA9685 Servo Driver
 ## PCT connectors 
-### Mechanical Components
+# Mechanical Components
 ## L Mount Brackets 
 ## Multipurpose Brakcets 
 ## Servo Mount Brackets of many types 
